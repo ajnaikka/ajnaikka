@@ -11,10 +11,10 @@ I'm a passionate DevOps Engineer with a love for automating everything! With a k
 
 ## 💼 Professional Experience
 
-### DevOps Engineer at [Company Name] | [Dates]
+### DevOps Engineer at [Loyal IT Solutions] | [aug2023 - present]
 - Designed and implemented CI/CD pipelines using Jenkins, GitLab CI, and GitHub Actions.
 - Managed Kubernetes clusters for container orchestration and optimized deployment strategies.
-- Automated infrastructure provisioning with Terraform and AWS CloudFormation.
+- Automated serverless infrastructure provisioning with Terraform.
 - Monitored application performance and infrastructure health using Prometheus and Grafana.
 
 ---
