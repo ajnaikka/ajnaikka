@@ -22,14 +22,23 @@ I'm a passionate DevOps Engineer with a love for automating everything! With a k
 ## 🛠️ Technologies & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" alt="AWS" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/azure/azure.png" alt="Azure" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/jenkins/jenkins.png" alt="Jenkins" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="Git" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" alt="Docker" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/terraform/terraform.png" alt="Terraform" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/ansible/ansible.png" alt="Ansible" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/kubernetes/kubernetes.png" alt="Kubernetes" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" alt="PostgreSQL" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" alt="MySQL" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/nginx/nginx.png" alt="Nginx" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/yaml/yaml.png" alt="YAML" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/bash/bash.png" alt="Shell Scripting" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" alt="Linux" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" alt="GitHub" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/azure-devops/azure-devops.png" alt="Azure DevOps" width="50" height="50" />
 </p>
 
 ---
@@ -70,6 +79,8 @@ When I'm not coding, you can find me exploring the latest tech gadgets, gaming, 
 ---
 
 Thanks for stopping by! Let's build something amazing together. 🚀
+
+
 
 <!--
 **ajnaikka/ajnaikka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
